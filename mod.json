@@ -1,0 +1,10 @@
+{
+    "displayName": "Mocha Chai",
+    "name": "mocha-chai",
+    "author": "Acemany",
+	"main": "acemany.MochaChai",
+	"description": "MochaDoom but in mindustry.",
+	"version": 1.0,
+	"minGameVersion": 145,
+	"java": true
+}
